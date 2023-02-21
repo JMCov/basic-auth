@@ -34,4 +34,4 @@ N/A
 
 #### UML
 
-![Lab-04 UML](assets/lab-06-uml.PNG)
+![Lab-06 UML](assets/lab-06-uml.PNG)
